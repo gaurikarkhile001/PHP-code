@@ -1,0 +1,58 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Page Container */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #0073e6;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Links */
+a {
+    color: #0073e6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* PHP Info Section */
+h2 {
+    margin-top: 40px;
+    color: #0073e6;
+    border-bottom: 2px solid #0073e6;
+    padding-bottom: 5px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #888;
+    font-size: 14px;
+}
